@@ -1,0 +1,10 @@
+.header {
+  text-align: center;
+}
+.header .header-box {
+  width: 100px;
+  height: 100px;
+}
+.footer {
+  text-align: center;
+}
